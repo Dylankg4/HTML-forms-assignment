@@ -1,0 +1,11 @@
+.group{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex: 1;
+}
+.item {
+    display:flex;
+    margin: 5px;
+    padding: 5px;
+}
